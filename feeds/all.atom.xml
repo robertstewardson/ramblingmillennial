@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RamblingMillennial</title><link href="n/" rel="alternate"></link><link href="n/feeds/all.atom.xml" rel="self"></link><id>n/</id><updated>2020-05-30T00:00:00-07:00</updated><entry><title>First Post "Hello World"</title><link href="n/first-post-hello-world.html" rel="alternate"></link><published>2020-05-30T00:00:00-07:00</published><updated>2020-05-30T00:00:00-07:00</updated><author><name>rstewardson</name></author><id>tag:None,2020-05-30:n/first-post-hello-world.html</id><summary type="html">&lt;h1&gt;The beginning of something wonderful&lt;/h1&gt;
+&lt;p&gt;"Hello World" was popularized as a "learning the basics" part of programming and it does just that!
+It funcations as a verification that the systems are functioning and serves as a humble reminder of
+where we all start.&lt;/p&gt;
+&lt;p&gt;Be Humble&lt;/p&gt;</summary><content type="html">&lt;h1&gt;The beginning of something wonderful&lt;/h1&gt;
+&lt;p&gt;"Hello World" was popularized as a "learning the basics" part of programming and it does just that!
+It funcations as a verification that the systems are functioning and serves as a humble reminder of
+where we all start.&lt;/p&gt;
+&lt;p&gt;Be Humble&lt;/p&gt;</content></entry></feed>
